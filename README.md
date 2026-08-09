@@ -90,3 +90,13 @@ This analysis was intentionally omitted because the GitHub REST Search API provi
 ## License
 
 This project was created for educational and portfolio purposes.
+
+---
+
+### Portfolio
+
+https://krzysztofzakrzewski.github.io/portfolio/github-ai-analysis/
+
+### Linkedin
+
+https://www.linkedin.com/in/krzysztof-zakrzewski-206554258/
